@@ -1,17 +1,17 @@
 # wardrobe-select
 
-### Description
+## Description
 
 
 
-### Quick Start
-
-
-
-
-### Usage
+## Quick Start
 
 
 
 
-### Contributing
+## Usage
+
+
+
+
+## Contributing
